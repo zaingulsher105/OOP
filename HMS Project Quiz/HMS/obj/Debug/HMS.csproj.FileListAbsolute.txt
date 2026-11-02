@@ -1,0 +1,21 @@
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct\HMS\bin\Debug\HMS.exe.config
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct\HMS\bin\Debug\HMS.exe
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct\HMS\bin\Debug\HMS.pdb
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct\HMS\obj\Debug\HMS.exe
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct\HMS\obj\Debug\HMS.pdb
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct - Copy\HMS\bin\Debug\HMS.exe.config
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct - Copy\HMS\bin\Debug\HMS.exe
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct - Copy\HMS\bin\Debug\HMS.pdb
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct - Copy\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct - Copy\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct - Copy\HMS\obj\Debug\HMS.exe
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Projwct - Copy\HMS\obj\Debug\HMS.pdb
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Project Quiz\HMS\bin\Debug\HMS.exe.config
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Project Quiz\HMS\bin\Debug\HMS.exe
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Project Quiz\HMS\bin\Debug\HMS.pdb
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Project Quiz\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Project Quiz\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Project Quiz\HMS\obj\Debug\HMS.exe
+C:\Users\Mass Laptop\Programming\2nd semester\HMS Project Quiz\HMS\obj\Debug\HMS.pdb

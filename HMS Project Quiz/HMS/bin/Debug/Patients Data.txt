@@ -1,0 +1,3 @@
+zain,19,lahore,12345678,damda
+sial,20,lahore,12356789,fever
+mhs,255,kachay ka ilaqa,999999999,heart problem
